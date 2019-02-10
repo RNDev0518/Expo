@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "InLookIt",
+    "slug": "InLookIt",
+    "version": "1.0.2",
+    "sdkVersion": "27.0.0",
+    "android": {
+      "package": "com.s2k.instabrand",
+      "config": {
+        "googleMaps": { "apiKey": "AIzaSyAv6g3rFCqCfPnvZwzTSFPzkj54D8Ou5lQ" }
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.s2k.instabrand"
+    }
+  },
+}
